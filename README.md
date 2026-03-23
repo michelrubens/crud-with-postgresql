@@ -91,7 +91,7 @@ CREATE TABLE users (
     ```bash
     npm start
     # ou
-    node index.js
+    node ./src/server
     ```
 
 5.  **Acesse no navegador:**
